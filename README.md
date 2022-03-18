@@ -5,11 +5,6 @@ If want to run on your personal computer, you need put the folder "codingTwoFina
 # Space Adventure
 -- Coding Two Final Project
 ## Video Link: https://youtu.be/i4iP35M4XV4
-
-## GuanghanWu  
-## 21032233  
-## G.wu0520211@arts.ac.uk  
-
 ## Description:  
 ### (1)Story  
 This is a greatly exciting space adventure, hoping everyone can have a nice minute in it.
@@ -24,3 +19,8 @@ IV. The overall of the animation is controlled by the float t declared in advanc
 
 ### (3)Extra State  
 Since the music embedded is "Adventure Time" by Norwegian music maker Philter, I promise that this work will be never for any commercial use before any authorization.
+
+## Info.
+By GuanghanWu  
+21032233  
+G.wu0520211@arts.ac.uk  
